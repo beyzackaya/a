@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ChatApp.API/Chat.5d7aq2wf0z.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Chat.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5d7aq2wf0z"},{"Name":"integrity","Value":"sha256-yaUKBaRn4FhTGaWuaYzTVy\u002BGtoZ0Ud5l6yH97EPti7k="},{"Name":"label","Value":"_content/ChatApp.API/Chat.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"38863"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022yaUKBaRn4FhTGaWuaYzTVy\u002BGtoZ0Ud5l6yH97EPti7k=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Jul 2025 01:14:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ChatApp.API/Chat.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Chat.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yaUKBaRn4FhTGaWuaYzTVy\u002BGtoZ0Ud5l6yH97EPti7k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"38863"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022yaUKBaRn4FhTGaWuaYzTVy\u002BGtoZ0Ud5l6yH97EPti7k=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Jul 2025 01:14:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ChatApp.API/login.3er7r5lbc3.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\login.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3er7r5lbc3"},{"Name":"integrity","Value":"sha256-lTrg6LW2FxPEiRfjt08tbmauMu432R7UyXp\u002BVL5mvhI="},{"Name":"label","Value":"_content/ChatApp.API/login.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3163"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022lTrg6LW2FxPEiRfjt08tbmauMu432R7UyXp\u002BVL5mvhI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Jul 2025 01:14:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ChatApp.API/login.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\login.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lTrg6LW2FxPEiRfjt08tbmauMu432R7UyXp\u002BVL5mvhI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3163"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022lTrg6LW2FxPEiRfjt08tbmauMu432R7UyXp\u002BVL5mvhI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Jul 2025 01:14:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

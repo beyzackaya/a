@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/wwwroot/Chat.html",
+      "PackagePath": "staticwebassets/Chat.html"
+    },
+    {
+      "Id": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/wwwroot/login.html",
+      "PackagePath": "staticwebassets/login.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ChatApp.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ChatApp.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ChatApp.API.props",
+      "PackagePath": "build\\ChatApp.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ChatApp.API.props",
+      "PackagePath": "buildMultiTargeting\\ChatApp.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ChatApp.API.props",
+      "PackagePath": "buildTransitive\\ChatApp.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

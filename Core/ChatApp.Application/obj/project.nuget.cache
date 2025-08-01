@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "P+zApiCIoP8=",
+  "success": true,
+  "projectFilePath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/beyzackaya/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.entityframeworkcore/8.0.13/microsoft.entityframeworkcore.8.0.13.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.13/microsoft.entityframeworkcore.abstractions.8.0.13.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.13/microsoft.entityframeworkcore.analyzers.8.0.13.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.extensions.caching.memory/8.0.1/microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.1/microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.extensions.logging/8.0.1/microsoft.extensions.logging.8.0.1.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.identitymodel.abstractions/8.13.0/microsoft.identitymodel.abstractions.8.13.0.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.13.0/microsoft.identitymodel.jsonwebtokens.8.13.0.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.identitymodel.logging/8.13.0/microsoft.identitymodel.logging.8.13.0.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.identitymodel.tokens/8.13.0/microsoft.identitymodel.tokens.8.13.0.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/system.identitymodel.tokens.jwt/8.13.0/system.identitymodel.tokens.jwt.8.13.0.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "F0Fj2tvgOTcPUX1pKWk1qA2j88FSepnIiTZmN52Gf8I=",
+  "Source": "ChatApp.API",
+  "BasePath": "_content/ChatApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ChatApp.API/wwwroot",
+      "Source": "ChatApp.API",
+      "ContentRoot": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/wwwroot/",
+      "BasePath": "_content/ChatApp.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/wwwroot/Chat.html",
+      "SourceId": "ChatApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/wwwroot/",
+      "BasePath": "_content/ChatApp.API",
+      "RelativePath": "Chat#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5d7aq2wf0z",
+      "Integrity": "yaUKBaRn4FhTGaWuaYzTVy+GtoZ0Ud5l6yH97EPti7k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Chat.html"
+    },
+    {
+      "Identity": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/wwwroot/login.html",
+      "SourceId": "ChatApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/wwwroot/",
+      "BasePath": "_content/ChatApp.API",
+      "RelativePath": "login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3er7r5lbc3",
+      "Integrity": "lTrg6LW2FxPEiRfjt08tbmauMu432R7UyXp+VL5mvhI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/login.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Chat.5d7aq2wf0z.html",
+      "AssetFile": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/wwwroot/Chat.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yaUKBaRn4FhTGaWuaYzTVy+GtoZ0Ud5l6yH97EPti7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 01:14:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5d7aq2wf0z"
+        },
+        {
+          "Name": "label",
+          "Value": "Chat.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yaUKBaRn4FhTGaWuaYzTVy+GtoZ0Ud5l6yH97EPti7k="
+        }
+      ]
+    },
+    {
+      "Route": "Chat.html",
+      "AssetFile": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/wwwroot/Chat.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yaUKBaRn4FhTGaWuaYzTVy+GtoZ0Ud5l6yH97EPti7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 01:14:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yaUKBaRn4FhTGaWuaYzTVy+GtoZ0Ud5l6yH97EPti7k="
+        }
+      ]
+    },
+    {
+      "Route": "login.3er7r5lbc3.html",
+      "AssetFile": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/wwwroot/login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lTrg6LW2FxPEiRfjt08tbmauMu432R7UyXp+VL5mvhI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 01:14:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3er7r5lbc3"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lTrg6LW2FxPEiRfjt08tbmauMu432R7UyXp+VL5mvhI="
+        }
+      ]
+    },
+    {
+      "Route": "login.html",
+      "AssetFile": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/wwwroot/login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lTrg6LW2FxPEiRfjt08tbmauMu432R7UyXp+VL5mvhI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 01:14:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lTrg6LW2FxPEiRfjt08tbmauMu432R7UyXp+VL5mvhI="
+        }
+      ]
+    }
+  ]
+}
