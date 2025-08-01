@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d01nRWJ8kTY=",
+  "success": true,
+  "projectFilePath": "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/beyzackaya/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/beyzackaya/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
