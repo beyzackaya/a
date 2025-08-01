@@ -946,11 +946,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj",
+      "projectUniqueName": "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj",
       "projectName": "ChatApp.Infrastructure",
-      "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj",
+      "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj",
       "packagesPath": "/Users/beyzackaya/.nuget/packages/",
-      "outputPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Infrastructure/obj/",
+      "outputPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/beyzackaya/.nuget/NuGet/NuGet.Config"
@@ -965,11 +965,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj": {
-              "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj"
+            "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj": {
+              "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj"
             },
-            "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj": {
-              "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj"
+            "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj": {
+              "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj"
             }
           }
         }

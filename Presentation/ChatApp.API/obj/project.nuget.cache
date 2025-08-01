@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9A1D2jbzdRo=",
+  "dgSpecHash": "tlY3q84s//8=",
   "success": true,
-  "projectFilePath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/ChatApp.API.csproj",
+  "projectFilePath": "/Users/beyzackaya/Desktop/batu/ChatApp/Presentation/ChatApp.API/ChatApp.API.csproj",
   "expectedPackageFiles": [
     "/Users/beyzackaya/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/Users/beyzackaya/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

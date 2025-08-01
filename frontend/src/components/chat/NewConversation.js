@@ -26,11 +26,13 @@ export default function NewConversationModal({ onClose, onGroupCreated }) {
     if (token) {
       try {
         const payload = JSON.parse(atob(token.split('.')[1]));
-        setCurrentUserId(payload.sub || payload.userId || payload.nameid);
+        console.log('Token payload:', payload);
+        const userId = payload.sub || payload.userId || payload.nameid;
+        console.log('Extracted userId:', userId);
+        setCurrentUserId(userId);
       } catch (err) {
         console.error('Token decode hatası:', err);
         authservice.logout();
-
       }
     }
 
@@ -85,20 +87,21 @@ export default function NewConversationModal({ onClose, onGroupCreated }) {
     setSearchResults([]);
   };
 
-  // ...existing code...
 const handleCreate = async () => {
   if (selectedUsers.length === 0) return;
 
   try {
     const currentUserIdInt = parseInt(currentUserId);
+    console.log('Current User ID:test', currentUserIdInt);
     const isPrivate = selectedUsers.length === 1;
     let payload;
 
     if (isPrivate) {
       const targetUserId = selectedUsers[0];
+      var user = allUsers.find(u => u.userId === targetUserId);
       payload = {
         userIds: [currentUserIdInt, targetUserId],
-        groupName: `Private_${currentUserIdInt}_${targetUserId}`,
+        groupName: `${user.name} ${user.lastName}`,
         isPrivate: true
       };
     } else {

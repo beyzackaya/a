@@ -30,6 +30,7 @@ export default function ChatSidebar({ onGroupSelect, selectedGroup, refreshTrigg
     setError(null);
     try {
       const data = await chatService.getSidebarGroups();
+      console.log('Sidebar verileri yüklendi:', data);
       setGroups(data);
     } catch (error) {
       console.error('Sidebar verileri yüklenemedi.', error);
@@ -45,6 +46,7 @@ export default function ChatSidebar({ onGroupSelect, selectedGroup, refreshTrigg
     setShowNewModal(false);
     if (newGroup) {
       onGroupSelect(newGroup);
+      loadGroups();
     }
   };
 

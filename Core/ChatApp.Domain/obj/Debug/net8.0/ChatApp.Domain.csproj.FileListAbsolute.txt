@@ -46,3 +46,15 @@
 /Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Domain/obj/Debug/net8.0/refint/ChatApp.Domain.dll
 /Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Domain/obj/Debug/net8.0/ChatApp.Domain.pdb
 /Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Domain/obj/Debug/net8.0/ref/ChatApp.Domain.dll
+/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/bin/Debug/net8.0/ChatApp.Domain.deps.json
+/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/bin/Debug/net8.0/ChatApp.Domain.dll
+/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/bin/Debug/net8.0/ChatApp.Domain.pdb
+/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/obj/Debug/net8.0/ChatApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/obj/Debug/net8.0/ChatApp.Domain.AssemblyInfoInputs.cache
+/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/obj/Debug/net8.0/ChatApp.Domain.AssemblyInfo.cs
+/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/obj/Debug/net8.0/ChatApp.Domain.csproj.CoreCompileInputs.cache
+/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/obj/Debug/net8.0/ChatApp.Domain.sourcelink.json
+/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/obj/Debug/net8.0/ChatApp.Domain.dll
+/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/obj/Debug/net8.0/refint/ChatApp.Domain.dll
+/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/obj/Debug/net8.0/ChatApp.Domain.pdb
+/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/obj/Debug/net8.0/ref/ChatApp.Domain.dll

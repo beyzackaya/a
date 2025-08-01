@@ -3460,11 +3460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/ChatApp.API.csproj",
+      "projectUniqueName": "/Users/beyzackaya/Desktop/batu/ChatApp/Presentation/ChatApp.API/ChatApp.API.csproj",
       "projectName": "ChatApp.API",
-      "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/ChatApp.API.csproj",
+      "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Presentation/ChatApp.API/ChatApp.API.csproj",
       "packagesPath": "/Users/beyzackaya/.nuget/packages/",
-      "outputPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/obj/",
+      "outputPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Presentation/ChatApp.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/beyzackaya/.nuget/NuGet/NuGet.Config"
@@ -3479,14 +3479,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj": {
-              "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj"
+            "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj": {
+              "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj"
             },
-            "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj": {
-              "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj"
+            "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj": {
+              "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj"
             },
-            "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Persistence/ChatApp.Persistence.csproj": {
-              "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Persistence/ChatApp.Persistence.csproj"
+            "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Persistence/ChatApp.Persistence.csproj": {
+              "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Persistence/ChatApp.Persistence.csproj"
             }
           }
         }

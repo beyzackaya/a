@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/ChatApp.API.csproj": {}
+    "/Users/beyzackaya/Desktop/batu/ChatApp/Presentation/ChatApp.API/ChatApp.API.csproj": {}
   },
   "projects": {
-    "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj": {
+    "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj",
+        "projectUniqueName": "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj",
         "projectName": "ChatApp.Application",
-        "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj",
+        "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj",
         "packagesPath": "/Users/beyzackaya/.nuget/packages/",
-        "outputPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Application/obj/",
+        "outputPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/beyzackaya/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj": {
-                "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj"
+              "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj": {
+                "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj": {
+    "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj",
+        "projectUniqueName": "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj",
         "projectName": "ChatApp.Domain",
-        "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj",
+        "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj",
         "packagesPath": "/Users/beyzackaya/.nuget/packages/",
-        "outputPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Domain/obj/",
+        "outputPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/beyzackaya/.nuget/NuGet/NuGet.Config"
@@ -164,14 +164,14 @@
         }
       }
     },
-    "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj": {
+    "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj",
+        "projectUniqueName": "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj",
         "projectName": "ChatApp.Infrastructure",
-        "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj",
+        "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj",
         "packagesPath": "/Users/beyzackaya/.nuget/packages/",
-        "outputPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Infrastructure/obj/",
+        "outputPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/beyzackaya/.nuget/NuGet/NuGet.Config"
@@ -186,11 +186,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj": {
-                "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj"
+              "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj": {
+                "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj"
               },
-              "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj": {
-                "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj"
+              "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj": {
+                "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj"
               }
             }
           }
@@ -240,14 +240,14 @@
         }
       }
     },
-    "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Persistence/ChatApp.Persistence.csproj": {
+    "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Persistence/ChatApp.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Persistence/ChatApp.Persistence.csproj",
+        "projectUniqueName": "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Persistence/ChatApp.Persistence.csproj",
         "projectName": "ChatApp.Persistence",
-        "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Persistence/ChatApp.Persistence.csproj",
+        "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Persistence/ChatApp.Persistence.csproj",
         "packagesPath": "/Users/beyzackaya/.nuget/packages/",
-        "outputPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Persistence/obj/",
+        "outputPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/beyzackaya/.nuget/NuGet/NuGet.Config"
@@ -262,11 +262,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj": {
-                "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj"
+              "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj": {
+                "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj"
               },
-              "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj": {
-                "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj"
+              "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj": {
+                "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Domain/ChatApp.Domain.csproj"
               }
             }
           }
@@ -344,14 +344,14 @@
         }
       }
     },
-    "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/ChatApp.API.csproj": {
+    "/Users/beyzackaya/Desktop/batu/ChatApp/Presentation/ChatApp.API/ChatApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/ChatApp.API.csproj",
+        "projectUniqueName": "/Users/beyzackaya/Desktop/batu/ChatApp/Presentation/ChatApp.API/ChatApp.API.csproj",
         "projectName": "ChatApp.API",
-        "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/ChatApp.API.csproj",
+        "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Presentation/ChatApp.API/ChatApp.API.csproj",
         "packagesPath": "/Users/beyzackaya/.nuget/packages/",
-        "outputPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Presentation/ChatApp.API/obj/",
+        "outputPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Presentation/ChatApp.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/beyzackaya/.nuget/NuGet/NuGet.Config"
@@ -366,14 +366,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj": {
-                "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj"
+              "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj": {
+                "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Core/ChatApp.Application/ChatApp.Application.csproj"
               },
-              "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj": {
-                "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj"
+              "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj": {
+                "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Infrastructure/ChatApp.Infrastructure.csproj"
               },
-              "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Persistence/ChatApp.Persistence.csproj": {
-                "projectPath": "/Users/beyzackaya/Desktop/Düzenlenecek/ChatApp/Infrastructure/ChatApp.Persistence/ChatApp.Persistence.csproj"
+              "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Persistence/ChatApp.Persistence.csproj": {
+                "projectPath": "/Users/beyzackaya/Desktop/batu/ChatApp/Infrastructure/ChatApp.Persistence/ChatApp.Persistence.csproj"
               }
             }
           }

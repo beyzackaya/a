@@ -50,7 +50,7 @@ function getUserId() {
   const token = getToken();
   if (token) {
       const payload = JSON.parse(atob(token.split('.')[1]));
-      return payload.sub || payload.userId || payload.nameid;
+      return payload.sub || payload.userId || payload.nameid || payload.id || null;
   }
   return null;
 }
